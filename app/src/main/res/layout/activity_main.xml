@@ -70,7 +70,7 @@
             android:layout_margin="3dp"
             android:layout_weight="1"
 
-            android:onClick="onPressed"
+            android:onClick="onOperator"
             android:text="/"
             android:textSize="18sp">
 
